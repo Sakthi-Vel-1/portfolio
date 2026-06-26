@@ -50,7 +50,7 @@ const Banner = () => {
                         <span className="font-medium text-foreground">
                             Sakthivel
                         </span>
-                        . A creative Frontend Developer with hand's on
+                        . A creative Frontend Developer with hand&apos;s on
                         experience in building high-performance, scalable, and
                         responsive web solutions.
                     </p>
